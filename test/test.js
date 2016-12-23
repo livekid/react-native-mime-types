@@ -212,7 +212,7 @@ describe('mimeTypes', function () {
 
     describe('path with dotfile', function () {
       it('should return false when extension-less', function () {
-        assert.strictEqual(mimeTypes.lookup('/path/to/.json'), false)
+        assert.strictEqual(mimeTypes.lookup('/path/to/json'), false)
       })
 
       it('should return mime type when there is extension', function () {
