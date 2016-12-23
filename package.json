@@ -1,5 +1,5 @@
 {
-  "name": "mime-types",
+  "name": "react-native-mime-types",
   "description": "The ultimate javascript content-type utility.",
   "version": "2.2.0",
   "contributors": [

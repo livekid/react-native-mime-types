@@ -21,7 +21,7 @@ Otherwise, the API is compatible.
 ## Install
 
 ```sh
-$ npm install mime-types
+$ yarn add react-native-mime-types
 ```
 
 ## Adding Types
@@ -32,7 +32,7 @@ so open a PR there if you'd like to add mime types.
 ## API
 
 ```js
-var mime = require('mime-types')
+import * as mime from 'react-native-mime-types';
 ```
 
 All functions return `false` if input is invalid or not found.
@@ -91,13 +91,13 @@ A map of extensions by content-type.
 
 [MIT](LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/mime-types.svg
-[npm-url]: https://npmjs.org/package/mime-types
-[node-version-image]: https://img.shields.io/node/v/mime-types.svg
+[npm-image]: https://img.shields.io/npm/v/react-native-mime-types.svg
+[npm-url]: https://npmjs.org/package/react-native-mime-types
+[node-version-image]: https://img.shields.io/node/v/react-native-mime-types.svg
 [node-version-url]: https://nodejs.org/en/download/
 [travis-image]: https://img.shields.io/travis/jshttp/mime-types/master.svg
 [travis-url]: https://travis-ci.org/jshttp/mime-types
 [coveralls-image]: https://img.shields.io/coveralls/jshttp/mime-types/master.svg
 [coveralls-url]: https://coveralls.io/r/jshttp/mime-types
-[downloads-image]: https://img.shields.io/npm/dm/mime-types.svg
-[downloads-url]: https://npmjs.org/package/mime-types
+[downloads-image]: https://img.shields.io/npm/dm/react-native-mime-types.svg
+[downloads-url]: https://npmjs.org/package/react-native-mime-types
