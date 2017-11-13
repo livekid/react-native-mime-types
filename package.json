@@ -1,7 +1,7 @@
 {
   "name": "react-native-mime-types",
   "description": "The ultimate javascript content-type utility.",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jeremiah Senkpiel <fishrock123@rocketmail.com> (https://searchbeam.jit.su)",
@@ -13,7 +13,7 @@
     "mime",
     "types"
   ],
-  "repository": "jshttp/mime-types",
+  "repository": "Liroo/react-native-mime-types",
   "dependencies": {
     "mime-db": "~1.25.0"
   },
