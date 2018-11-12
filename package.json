@@ -15,7 +15,7 @@
   ],
   "repository": "Liroo/react-native-mime-types",
   "dependencies": {
-    "mime-db": "~1.25.0"
+    "mime-db": "~1.37.0"
   },
   "devDependencies": {
     "eslint": "3.10.2",
