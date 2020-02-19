@@ -1,7 +1,7 @@
 {
   "name": "react-native-mime-types",
   "description": "The ultimate javascript content-type utility.",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jeremiah Senkpiel <fishrock123@rocketmail.com> (https://searchbeam.jit.su)",
